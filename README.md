@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src='momentum.JPG' width='30px'>
+
+
+
 <!--
 **tanmoyio/tanmoyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
