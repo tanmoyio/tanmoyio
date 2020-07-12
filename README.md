@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='300px'>
+<img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='400px'>
 
 
 
