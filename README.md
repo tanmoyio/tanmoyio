@@ -1,7 +1,6 @@
-### Hi there 👋
-
+<p>
 <img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='400px'>
-
+</p
 
 
 <!--
