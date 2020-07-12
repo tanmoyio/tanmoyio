@@ -1,7 +1,7 @@
 <p>
- Deep learning researcher, I love to make deep learning tools, genarative arts.
+ <samp>Deep learning researcher, I love to make deep learning tools, genarative arts.</samp>
 <img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='400px'>
-</p
+ </p>
 
 
 <!--
