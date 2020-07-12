@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='momentum.JPG'>
+<img src='momentum.JPG' height='100px'>
 
 
 
