@@ -1,5 +1,5 @@
 <p>
- <samp><b>Deep learning researcher<b><br> I make Deep Learning tools, Genarative arts, Probabilistic models, Adversarial tools, RL models.</samp>
+ <samp><b>Deep learning researcher</b><br>I make Deep Learning tools, Genarative arts, Probabilistic models, Adversarial tools, RL models.</samp>
 <img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='400px'>
  </p>
 
