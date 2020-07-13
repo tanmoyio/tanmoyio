@@ -1,6 +1,6 @@
 <p>
  <samp><b>Deep learning researcher</b><br>I make Deep Learning tools, Genarative arts, Probabilistic models, Adversarial tools, RL models.</samp>
-<img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='400px'>
+<img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='380px'>
  
  <samp><b>2020 Goals:</b><br>:four_leaf_clover: being happy<br>:snowflake: listening and finding great music<br>:mushroom: creating tools and contributing to Deep Learning Community</samp>
  <hr>
