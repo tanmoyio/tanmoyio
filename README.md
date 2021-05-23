@@ -1,10 +1,9 @@
 <p>
  <samp><b>Deep learning researcher</b><br>I make Deep Learning tools, Genarative arts, Probabilistic models, Adversarial tools, RL models.</samp>
 <img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='380px'>
+
+ <samp><b>Currently Building:</b><br><a href="https://github.com/neuropark">Neuropark, a deep learning community</a> <br></samp>
  
- <samp><b>Currently Working on:</b><br><a href="https://github.com/tanmoyio/mudkip">Mudkip</a> <br><a href="https://github.com/tanmoyio/retro3">Retro3</a></samp>
- 
- <samp><b>2020 Goals:</b><br>:four_leaf_clover: being happy<br>:snowflake: listening and finding great music<br>:mushroom: creating tools and contributing to Deep Learning Community</samp>
  <hr>
  <samp>DM me at <a href="https://twitter.com/tanmoyio">Twitter</a>
   </samp>
