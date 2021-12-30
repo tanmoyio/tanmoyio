@@ -1,5 +1,5 @@
 <p>
- <samp><b>Computational scientist</b><br>I work on HPC, Kernel, Deep Learning, Electronics.</samp>
+ <samp><b>Computational Scientist</b><br>I work on HPC, Kernel, Deep Learning, Electronics.</samp>
 <img src='https://github.com/tanmoyio/tanmoyio/blob/master/momentum.JPG?raw=true' height='380px'>
 
  
