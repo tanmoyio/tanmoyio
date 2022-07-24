@@ -5,6 +5,6 @@
 ┃   ┣━━ babynet                                  - Babyfied implementation of Pytorch-Geometric           
 ┃   ┗━━ gradman                                  - Baby deep learning library
 ┗━━ 🐥 <b>Contributing</b>
-    ┣━━ Lighthning-transformers                  - Flexible components pairing 🤗 Transformers with Pytorch Lightning               
-    ┗━━ Lightning                                - The lightweight PyTorch wrapper for high-performance AI research
+    ┣━━ Lighthning-transformers                  - Flexible components pairing 🤗 Transformers with PL               
+    ┗━━ Lightning                                - The lightweight PyTorch wrapper
 </pre>
