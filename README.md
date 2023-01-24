@@ -1,1 +1,1 @@
-<samp>HPC, Distributive Systems, Neural Net, ASIC</samp>
+<samp>HPC, Distributive Systems, Neural Net, ASIC </samp>
